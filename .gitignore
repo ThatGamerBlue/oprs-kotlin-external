@@ -1,0 +1,6 @@
+.gradle/
+.idea/
+build/
+.vscode/
+
+*.jar
